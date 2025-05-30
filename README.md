@@ -6,4 +6,4 @@ For the longest time, I found equations intimidating. Something to get through, 
 
 Inspired by the book *Math for Deep Learning*, this space documents my journey through the foundations. From linear algebra and calculus to probability and optimization, with the goal of building true confidence, not just passing familiarity.
 
-If you're not afraid of a few matrices, gradients, or integrals, and if you believe that true confidence comes from clarity, not just code — then you’re welcome here.
+If you're not afraid of a few matrices, gradients, or integrals, and if you believe that true confidence comes from clarity, not just code, then you’re welcome here.
